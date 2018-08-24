@@ -1,0 +1,3 @@
+/etc/pulse/xpolicy.conf.d/bluez5.conf
+/etc/pulse/xpolicy.conf.d/bluez5_earpiece.conf
+/etc/pulse/bluez5_stream_restore.pa

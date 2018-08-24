@@ -49,7 +49,7 @@ Requires:
 #- gstreamer1.0-droid
 
 # This is needed for notification LEDs
-- mce-plugin-libhybris
+#- mce-plugin-libhybris
 
 ## USB mode controller
 # Enables mode selector upon plugging USB cable:
@@ -61,7 +61,7 @@ Requires:
 # might need some configuration to get working
 #- usb-moded-mass-storage-android-config
 # working but careful with roaming!
-- usb-moded-connection-sharing-android-config
+#- usb-moded-connection-sharing-android-config
 # android diag mode only usable for certain android tools
 #- usb-moded-diag-mode-android
 
@@ -79,7 +79,7 @@ Requires:
 #- jolla-mediaplayer-radio
 
 # For devices with SD Card
-#- sd-utils
+- sd-utils
 
 Summary: Jolla HW Adaptation Z00ED
 

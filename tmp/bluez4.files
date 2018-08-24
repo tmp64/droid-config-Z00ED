@@ -1,0 +1,3 @@
+/etc/pulse/bluez4_stream_restore.pa
+/etc/pulse/xpolicy.conf.d/bluez4.conf
+/etc/pulse/xpolicy.conf.d/bluez4_earpiece.conf
